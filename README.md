@@ -3,9 +3,11 @@
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align="right" width="300"src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
 
-- 🔭 I’m currently working on **NTUE Assistant**
+- 🔭 I’m currently working on [NTUE Assistant](https://github.com/Lichyo/Assistant_NTUE)
 
 - 🌱 I’m currently learning **Compose UI**
+
+- 👯 I’m looking to collaborate on [Spike Monster](https://github.com/spike-monster/spike_monster)
 
 - 💬 Ask me about **Flutter**
 
